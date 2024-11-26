@@ -67,16 +67,15 @@ The app will open in your browser. Follow the instructions to input the genre, d
 ## Example Usage
 
 Input 1: Genre: "Science Fiction"
-
 Output: Top movies in the Science Fiction genre.
+
 Input 2: Director: "Christopher Nolan"
-
 Output: Movies directed by Christopher Nolan.
+
 Input 3: Actor: "Leonardo DiCaprio"
-
 Output: Movies featuring Leonardo DiCaprio.
-Input 4: Genre: "Action", Director: "James Cameron"
 
+Input 4: Genre: "Action", Director: "James Cameron"
 Output: Top Action movies directed by James Cameron.
 
 ## Acknowledgements
@@ -88,6 +87,6 @@ Output: Top Action movies directed by James Cameron.
 ## Demo
 Watch a demo of the application in action:
 
-Movie Recommendation Demo Video
+[Movie Recommendation Demo Video](movie_recommendation.mp4)
 
 
